@@ -1,9 +1,9 @@
 # RTR105
 Studiju kursa Datormācība (pamatkurss) elektroniska klāde
 
-**komandas**
+#**komandas**
 
-*whoami*   kas es esmu?
+*whoami*  kas es esmu?
 
 *pwd*   kur es esmu? faila sistēma
 
