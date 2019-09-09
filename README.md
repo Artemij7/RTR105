@@ -1,7 +1,7 @@
 # RTR105
 Studiju kursa Datormācība (pamatkurss) elektroniska klāde
 
-#**komandas**
+#komandas
 
 *whoami*  kas es esmu?
 
