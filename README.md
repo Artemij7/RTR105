@@ -65,3 +65,21 @@ solis uz vietas
 
 ### *cd ..*   
 atpakal uz vienu 
+
+### *cat*
+lasit failu
+
+### *echo >>*
+papildinat failu
+
+### *echo >*
+jauns fails
+
+### *cp* 
+copy
+
+### *mv*
+muve
+
+### *rm*
+dzest failu
