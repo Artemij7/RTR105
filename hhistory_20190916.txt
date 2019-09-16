@@ -1,0 +1,103 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -l
+    4  touch aaa.txt
+    5  ls -l
+    6  touch 201909171000aaa.txt
+    7  touch -c -t  201909171000aaa.txt
+    8  ls -l
+    9  touch -c -t 201909171000 aaa.txt
+   10  ls -l
+   11  cat aaa.txt
+   12  echo Hello World!
+   13  echo Hello World! > bbb.txt.
+   14  ls -l
+   15  cat bbb.txt
+   16  echo Hello World! > bbb.txt
+   17  cat bbb.txt
+   18  echo Hello World again! > bbb.txt
+   19  ls -l bbb.txt
+   20  cat bbb.txt
+   21  echo Hello World! > bbb.txt
+   22  echo Hello World again! >> bbb.txt
+   23  ls -l bbb.txt
+   24  cat bbb.txt
+   25  echo Hello\vWorld! >> bbb.txt
+   26  cat bbb.txt
+   27  man echo
+   28  echo -e Hello\vWorld! >> bbb.txt
+   29  echo -e "Hello\vWorld!"
+   30  ls -l ccc.txt
+   31  echo -e "Hello\vWorld!" >> ccc.txt
+   32  ls -l ccc.txt
+   33  ls -l /bin/bash
+   34  ls -l /bin/ls
+   35  cat /bin/ls
+   36  ls -l
+   37  cat bbb.txt
+   38  cat bbb.txt > bbb1.txt
+   39  ls -l
+   40  cat bbb1.txt
+   41  cp bbb.txt bbb2.txt
+   42  ls -l
+   43  ls -l bbb2.txt
+   44  ls -l *.txt
+   45  ls -l b*.txt
+   46  cd /
+   47  pwd
+   48  mv ~/bbb2.txt ~/Music/d10.tx
+   49  cd
+   50  ls
+   51  ls -l Music/
+   52  cat /home/user/Music/d10.tx
+   53  ls 
+   54  mv bbb1.txt e7.xtx 
+   55  ls 
+   56  ls -l e7.xtx
+   57  rm aaa.txt
+   58  ls -l
+   59  ls -l *.*xt
+   60  rm *.*xt
+   61  ls -l *.*xt
+   62  ls ./Music/
+   63  ls ./Music
+   64  rm .
+   65  history
+   66  history > history_20190916.txt
+   67  ls -l
+   68  cat > history_20190916.txt
+   69  pwd
+   70  nano MansPirmaisSkripts.sh
+   71  ls -l
+   72  cat MansPirmaisSkripts.sh
+   73  ls
+   74  whereis ls
+   75  whereis MansPirmaisSkripts.sh
+   76  ls -l
+   77  ls -l /bin/ls
+   78  ./MansPirmaisSkripts
+   79  ./MansPirmaisSkripts.sh
+   80  pwd
+   81  echo $PATH
+   82  PATH=$PATH:~
+   83  echo $PATH
+   84  MansPirmaisSkripts.sh
+   85  WHEREIS MansPirmaisSkripts.sh
+   86  whereis MansPirmaisSkripts.sh
+   87  ls -l MansPirmaisSkripts.sh
+   88  chmod 740 MansPirmaisSkripts.sh
+   89  ls -l MansPirmaisSkripts.sh
+   90  ls
+   91  MansPirmaisSkripts.sh
+   92  ls -l
+   93  cat error.txt
+   94  nano MansPirmaisSkripts.sh
+   95  ls -l
+   96  MansPirmaisSkripts.sh
+   97  ls -l
+   98  cat log.txt
+   99  cat error.txt
+  100  man rmdir
+  101  nano MansPirmaisSkripts.sh
+  102  history
+  103  history > hhistory_20190916.txt
