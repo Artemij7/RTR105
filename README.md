@@ -3,20 +3,11 @@ Studiju kursa Datormācība (pamatkurss) elektroniska klāde
 
 ## komandas
 - ***whoami***   kas es esmu?
-
-- *pwd*   kur es esmu? faila sistēma
-
-### *ls* vai *dir*   
-kas man ir pieejams?
-
-### *Ctrl+shift+T*   
-new tab
-
-### *Ctrl+Alt+T*   
-atvērt
-
-### *Ctrl+L*   
-uz augšu
+- ***pwd***   kur es esmu? faila sistēma
+- ***ls*** vai ***dir***   kas man ir pieejams?
+- ***Ctrl+shift+T*** new tab
+- ***Ctrl+Alt+T*** atvērt
+- ***Ctrl+L*** uz augšu
 
 ### *bultiņas*   
 komandas vesture
