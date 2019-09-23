@@ -1,0 +1,18 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  git clone https://github.com/Artemij7/RTR105
+    5  ls -ls
+    6  cd /RTR105
+    7  cd /RTR105_2019$
+    8  cd/RTR105_2019$
+    9  /RTR105_2019$
+   10  ls -ls
+   11  cd RTR105
+   12  nano git-upload
+   13  ls -l
+   14  ls -ls
+   15  nano git-upload
+   16  chmod 755 git-upload
+   17  history
+   18  history > history_20190923
