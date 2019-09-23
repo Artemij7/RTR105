@@ -1,0 +1,76 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  git clone https://github.com/Artemij7/RTR105
+    5  ls -ls
+    6  cd /RTR105
+    7  cd /RTR105_2019$
+    8  cd/RTR105_2019$
+    9  /RTR105_2019$
+   10  ls -ls
+   11  cd RTR105
+   12  nano git-upload
+   13  ls -l
+   14  ls -ls
+   15  nano git-upload
+   16  chmod 755 git-upload
+   17  history
+   18  history > history_20190923
+   19  ls -ls
+   20  nano git-upload
+   21  echo $PATH
+   22  ./git-upload 
+   23  cat git-upload
+   24  ./git-upload a b
+   25  ./git-upload 20190923_15_15
+   26  pwd
+   27  mkdir darbi
+   28  ls -ls
+   29  cd darbi
+   30  pwd
+   31  nano elementari.c
+   32  ls -l
+   33  cat elementari.c
+   34  gcc elementari.c
+   35  ls -l
+   36  cat a.out
+   37  nano elementari.c 
+   38  gcc elementari.c -o prg1
+   39  ls -l
+   40  ./prg1
+   41  ./out
+   42  ./a.out
+   43  ./prg1
+   44  nano elementari.c 
+   45  gcc elementari.c -o prg2
+   46  ls -l
+   47  nano elementari.c 
+   48  cat elementari.c 
+   49  gcc elementari.c -o prg3
+   50  ls -l
+   51  cp elementari.c hello.c
+   52  ls -l
+   53  nano hello.c
+   54  gcc hello.c -o prg4
+   55  nano hello.c
+   56  cat hello.c 
+   57  gcc hello.c -o prg4
+   58  nano hello.c
+   59  gcc hello.c -o prg4
+   60  ls -l
+   61  ./prg4
+   62  nano hello.c
+   63  cat hello.c 
+   64  gcc hello.c -o prg5
+   65  ls -l
+   66  ./prg5
+   67  nano hello.c
+   68  cat hello.c 
+   69  gcc hello.c -o prg6
+   70  nano hello.c
+   71  rm prg1
+   72  ls prg*
+   73  rm prg*
+   74  rm a.out
+   75  cd ..
+   76  history > history_20190923.txt
