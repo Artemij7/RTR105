@@ -30,3 +30,7 @@ Studiju kursa Datormācība (pamatkurss) elektroniska klāde
 - ***mv*** muve
 - ***rm*** dzest failu
 - ***unit 0*** izlegt datoru
+- ***chmod*** mainit parametrus
+- ***git clone link*** jauna mape no interneta
+- ***sudo apt-get install git*** pielikt komndu
+- ***mkdir*** izveidot mapi
