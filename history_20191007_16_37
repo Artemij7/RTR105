@@ -1,0 +1,163 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefx &
+    4  firefox &
+    5  git clone https://github.com/Artemij7
+    6* gcc -
+    7  git clone https://github.com/Artemij7
+    8  git clone https://github.com/Artemij7/RTR105
+    9  ls -l
+   10  cd /RTR105
+   11  cd RTR105/
+   12  ls -l
+   13  cd darbi
+   14  pwd
+   15  ls -l
+   16  rm a.out
+   17  lsc -l
+   18  ls -l
+   19  rm lab*
+   20  ls -l
+   21  cd .
+   22  cd ..
+   23  ls -l
+   24  rm git-upload
+   25  ls -l
+   26  cd drabi
+   27  pwd
+   28  cd darbi
+   29  pwd
+   30  ls -l
+   31  nano 0.7c
+   32  gcc 0.7c -o 1drb
+   33  gcc 0.7c -0 1drb
+   34  gcc 0.7c -0 07.c
+   35  gcc -0 07.c
+   36  gcc 07.c -o lab1
+   37  nano 0.7c
+   38  gcc 07.c -o lab1
+   39  nano 0.7c
+   40  nano 06.c
+   41  nano 0.7c
+   42  gcc 07.c -o lab1
+   43  nano 0.7c
+   44  gcc 07.c -o lab1
+   45  nano 0.7c
+   46  gcc 07.c -o lab1
+   47  ls -l
+   48  nano 0.7c
+   49  gcc 07.c -o lab1
+   50  nano 0.7c
+   51  gcc 07.c -o lab1
+   52  nano 0.7c
+   53  nano 07.c
+   54  07.c
+   55  ./07.c
+   56  nano 07.c
+   57  gcc 07.c -o lab1
+   58  ./lab1
+   59  nano 07.c
+   60  gcc 07.c -o lab1
+   61  nano 07.c
+   62  gcc 07.c -o lab1
+   63  nano 07.c
+   64  gcc 07.c -o lab1
+   65  nano 07.c
+   66  gcc 07.c -o lab1
+   67  nano 07.c
+   68  gcc 07.c -o lab1
+   69  nano 07.c
+   70  gcc 07.c -o lab1
+   71  nano 07.c
+   72  gcc 07.c -o lab1
+   73  nano 07.c
+   74  gcc 07.c -o lab1
+   75  nano 07.c
+   76  gcc 07.c -o lab1
+   77  nano 07.c
+   78  gcc 07.c -o lab1
+   79  nano 07.c
+   80  gcc 07.c -o lab1
+   81  nano 07.c
+   82  gcc 07.c -o lab1
+   83  ./lab1
+   84  cp lab1 lab2
+   85  ./lab2
+   86  nano lab2
+   87  nano 07.c
+   88  cd 
+   89  history > history_07102019
+   90  ls -l
+   91  ./git-upload history_07102019 
+   92  git-upload history_07102019 
+   93  cd RTR105/
+   94  git-upload history_07102019 
+   95  ./git-upload history_07102019 
+   96  ls -l
+   97  cd
+   98  ls -l
+   99  rm history_07102019 
+  100  cd RTR105/
+  101  history > history_20191007
+  102  ./git-upload history_20191007
+  103  /git-upload history_20191007
+  104* 
+  105  ./git-upload history_20191007
+  106  rm history_20191007
+  107  ls -l
+  108  cd darbi
+  109  ls -l
+  110  rm lab*
+  111  ./git-upload history_20190923_17_54 
+  112  git-upload history_20190923_17_54 
+  113  history
+  114  history > history_20191007
+  115  cd
+  116* ./
+  117  ./git-upload history_20191007
+  118  .\git-upload history_20191007
+  119* 
+  120  cd RTR105
+  121  .\git-upload history_20191007
+  122  ls -l
+  123  history > history_20191007
+  124  ls -l
+  125  ./git-upload history_20191007
+  126  ./git-upload 20191007_15_59
+  127  cd ..
+  128  cd RTR105/
+  129  ./git-upload 20191007_15_59
+  130  git clone https://github.com/Artemij7
+  131  ls -l
+  132  cd ..
+  133  git clone https://github.com/Artemij7
+  134  git clone https://github.com/Artemij
+  135  git clone https://github.com/Artemij7
+  136  git clone https://github.com/Artemij7/RTR105
+  137  cd RTR105
+  138  ls -l
+  139  ./git-upload 20191007_16_26
+  140  cd darbi
+  141  cd RTR105
+  142  cd..
+  143  cd....  ..
+  144  cd ..
+  145  ls -l
+  146  history > history_20191007_16_28
+  147  ./git-upload 20191007_16_28
+  148  cd darbi
+  149  ls -l
+  150  rm a.out
+  151  ./lab1
+  152  nano 07.c
+  153  gcc 07.c -o lab1
+  154* 
+  155  gcc 07.c -o lab1
+  156  nano 07.c
+  157  gcc 07.c -o lab1
+  158  ls -l
+  159  rm lab*
+  160  ls- l
+  161  ls -l
+  162  cd ..
+  163  history > history_20191007_16_37
