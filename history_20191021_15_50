@@ -1,0 +1,55 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd RTR105
+    4  ls -l
+    5  firefox &
+    6  git clone https://github.com/Artemij7/RTR105
+    7  cd RTR105
+    8  cd darbi
+    9  ls -l
+   10  nano if_test_1.c
+   11  gcc if_test_1.c -o if1
+   12  ./if1
+   13  nano if_test_2.c
+   14  gcc if_test_2.c -o if2
+   15  nano if_test_3.c
+   16  gcc if_test_3.c -o if3
+   17  nano while_test_1.c
+   18  gcc while_test_1.c -o while1
+   19  nano while_test_2.c
+   20  gcc while_test_.c -o while1
+   21  gcc while_test_2.c -o while2
+   22  ls -l
+   23  nano for_test_1.c
+   24  gcc for_test_1.c -o for1
+   25  ./for1
+   26  nano for_test_1.c
+   27  ./for1
+   28  nano for_test_1.c
+   29  nano for_test_2.c
+   30  gcc for_test_2.c -o for2
+   31  ./for2
+   32  nano for_test_2.c
+   33  nano for_test_3.c
+   34  gcc for_test_3.c -o for3
+   35  ./for3
+   36  nano for_test_3.c
+   37  ls -l
+   38  rm for* if* while*
+   39  ls -l
+   40  cd ..
+   41  ls -l
+   42  history > history_20191021.txt
+   43  ls -l
+   44  git-upload history_20191021.txt
+   45  cd ..
+   46  git-upload history_20191021.txt
+   47  cd RTR105
+   48  history > history_20191021
+   49  git-upload history_20191021
+   50  ls -l
+   51  git-upload history_20191021
+   52  rm history_20191021
+   53  rm history_20191021.txt
+   54  ls -l
+   55  history > history_20191021_15_50
